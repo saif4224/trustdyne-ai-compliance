@@ -1,0 +1,11 @@
+trustdyne_final_model/
+trustdyne_final_production/
+trustdyne_production_model/
+*.tar.gz
+*.tar
+.terraform/
+*.tar
+*.tar.gz
+trustdyne_final_model/
+trustdyne_final_production/
+__pycache__/
